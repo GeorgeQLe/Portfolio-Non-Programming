@@ -1,4 +1,4 @@
-# portfolio-nonprogramming projects and assignments
+# Portfolio - nonprogramming projects and assignments
 
 Basic Concept Art directory contains all of my non-NDA artwork that either has already been implemented into a gameplay element, map, or
 cutscene or was cut from the game due to time constraints.
